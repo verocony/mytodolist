@@ -1,0 +1,20 @@
+@import url('http://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;300;400;500;600;700&display=swap');
+@import url('https://allfont.net/allfont.css?fonts=courier-new');
+
+.header__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.user_name p {
+    font-size: 18px;
+    font-weight: 500;
+}
+.header__title p {
+    font-size: 30px;
+    font-weight: 700;
+}
